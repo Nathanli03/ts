@@ -2,7 +2,7 @@ resources:
   repositories:
   - repository: MyGitHub
     type: github
-    name: Nathanli03/ts
+    name: Nathanli03/2nd
     endpoint: github.com_Nathanli03
 pool:
   vmImage: 'ubuntu-latest'
